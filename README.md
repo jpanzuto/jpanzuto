@@ -22,7 +22,6 @@ Busco día a día perfeccionarme incorporando nuevas herramientas. <br>
 - MongoDB
 - SQL  
    <br>
-
   <img src="https://img.shields.io/badge/HTML%20Academy-302683?style=for-the-badge&logo=HTML%20Academy&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -46,7 +45,7 @@ Busco día a día perfeccionarme incorporando nuevas herramientas. <br>
 🌱 Creo en el Respeto y las Personas<br>
 🤓 Disfruto estudiar e inevitablemente siempre estoy aprendiendo algo nuevo <br>
 
-- 👩‍🏫 Fui docente de Informática
+- 👩‍🏫 Me gusta la música y el tracking
 - 📚 En un futuro planeo mejorar mi Inglés
 
 #### ✉️ Podés contactarme por
