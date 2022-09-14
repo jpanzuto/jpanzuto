@@ -4,7 +4,7 @@
 
 #### 💻 Juan Panzuto - Desarrollador Backend
 
-Hola! Soy Juan, programadora junior. Me dediqué como técnico informático, docente y coach, y durante el último año incursioné en el desarrollo. Comencé con desarrollo web y luego backend trabajando actualmente de ello.
+Hola! Soy Juan, programador junior. Me dediqué como técnico informático, docente y coach, y durante el último año incursioné en el desarrollo. Comencé con desarrollo web y luego backend trabajando actualmente de ello.
 Busco día a día perfeccionarme incorporando nuevas herramientas. <br>
 
 ⚛️ Actualmente trabajo con NestJS y NodeJS <br>
